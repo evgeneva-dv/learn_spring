@@ -1,5 +1,8 @@
-package ru.javarush.info.fatfaggy.animals.entities;
+package ru.javarush.info.fatfaggy.animals.entities.animals;
 
+import org.springframework.stereotype.Component;
+
+//@Component
 public class Dog {
     private String name;
 
